@@ -1,2 +1,2 @@
 # 3-DoF-Finger-Trajectory-Following-Demos
-Videos of the 3-DoF finger performing trajectory following on a variety of paths. Position is extracted using SAM2 and pixel to mm conversion. Additionally videos show the fingertip moving through a 3-D printed rig with a 3 mm wide path.
+Videos of the 3-DoF finger performing trajectory following on a variety of paths. Position is extracted using SAM2 and pixel to mm conversion. Additional videos show the fingertip moving through 3-D printed rigs with a 3 mm wide path. The python scripts were used to generate the coordinates of the fingertip along the path via SAM2. The matlab files take the pixel coordinates, convert to millimeters, and compare to the input path (propagating uncertainty as well). 
